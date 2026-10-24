@@ -18,9 +18,9 @@
     "lint:stylelint:fix": "stylelint --fix assets/css/*scss"
   },
   "devDependencies": {
-    "esbuild": "^0.19.7",
-    "esbuild-sass-plugin": "^2.16.0",
-    "@primer/stylelint-config": "^12.8.0",
+    "esbuild": "^0.28.2",
+    "esbuild-sass-plugin": "^3.7.0",
+    "@primer/stylelint-config": "^13.6.0",
     "eslint": "^8.45.0",
     "eslint-plugin-sonarjs": "^0.19.0",
     "eslint-plugin-unicorn": "^47.0.0",
@@ -28,9 +28,9 @@
     "prettier": "^3.0.0",
     "sass": "^1.63.6",
     "style-loader": "^3.3.3",
-    "stylelint": "^15.10.1",
-    "stylelint-config-sass-guidelines": "^10.0.0",
-    "stylelint-config-standard": "^34.0.0"
+    "stylelint": "^17.16.0",
+    "stylelint-config-sass-guidelines": "^13.0.0",
+    "stylelint-config-standard": "^40.0.0"
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0"
